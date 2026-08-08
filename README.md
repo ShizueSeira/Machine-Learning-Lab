@@ -27,10 +27,10 @@ A collection of machine learning projects covering regression analysis, CNN imag
 
 **Files**: 
 - 💻 **Code:** [Boston_House_Price_Prediction.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Boston_House_Price_Prediction.ipynb)
-- 📄 **Report:** [Inventado-Boston_House_Price_Report.pdf](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Inventado-Boston_House_Price_Report.pdf)
+- 📄 **Report:** [Inventado-Boston_House_Price_Report.pdf](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Inventado-Boston_House_Price_Report.pdf)
 - 📊 **Datasets**:
-  - [boston (1).csv](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/boston%20(1).csv) (All columns)
-  - [boston_selected_features_withDIS.csv](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/boston_selected_features_withDIS.csv) (Selected columns)
+  - [boston (1).csv](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Lab%20Act%20Datasets/boston%20(1).csv) (All columns)
+  - [boston_selected_features_withDIS.csv](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Lab%20Act%20Datasets/boston_selected_features_withDIS.csv) (Selected columns)
 
 ---
 
@@ -45,8 +45,8 @@ A collection of machine learning projects covering regression analysis, CNN imag
 - **Results**: 88% training accuracy, 61% validation accuracy, 0.81 ROC-AUC
 
 **Files**:
-- 💻 **Code:** [SummativeLabExercise.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/SummativeLabExercise.ipynb)
-- 📄 **Report:** [Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf)
+- 💻 **Code:** [SummativeLabExercise.ipynb](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Summative%20Lab%20Exercise%203%20-%20Identifying%20Hair%20Types.ipynb)
+- 📄 **Report:** [Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf)
 
 ---
 
@@ -61,11 +61,11 @@ A collection of machine learning projects covering regression analysis, CNN imag
 - **Results**: R² > 0.98, RMSE: 13.80 (AMZN), 1.68 (IBM)
 
 **Files**:
-- 💻 **Code:** [Summative Lab Exercise 4_Predicting Stock Prices.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Summative%20Lab%20Exercise%204_Predicting%20Stock%20Prices.ipynb)
-- 📄 **Report:** [Inventado_Valles_Summative-Lab-Exercise-Predictin-Stock-Prices.pdf](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Inventado_Valles_Summative-Lab-Exercise-Predictin-Stock-Prices.pdf)
+- 💻 **Code:** [Summative Lab Exercise 4_Predicting Stock Prices.ipynb](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Summative%20Lab%20Exercise%204_Predicting%20Stock%20Prices.ipynb)
+- 📄 **Report:** [Inventado_Valles_Summative-Lab-Exercise-Predictin-Stock-Prices.pdf](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Inventado_Valles_Summative-Lab-Exercise-Predictin-Stock-Prices.pdf)
 - 📊 **Datasets**:
-  - [AMZN_2006-01-01_to_2018-01-01.csv](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/AMZN_2006-01-01_to_2018-01-01.csv)
-  - [IBM_2006-01-01_to_2018-01-01.csv](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/IBM_2006-01-01_to_2018-01-01.csv)
+  - [AMZN_2006-01-01_to_2018-01-01.csv](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Lab%20Act%20Datasets/AMZN_2006-01-01_to_2018-01-01.csv)
+  - [IBM_2006-01-01_to_2018-01-01.csv](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Lab%20Act%20Datasets/IBM_2006-01-01_to_2018-01-01.csv)
 
 ---
 
