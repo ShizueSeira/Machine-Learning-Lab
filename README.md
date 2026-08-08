@@ -28,6 +28,9 @@ A collection of machine learning projects covering regression analysis, CNN imag
 **Files**: 
 - 💻 **Code:** [Boston_House_Price_Prediction.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Boston_House_Price_Prediction.ipynb)
 - 📄 **Report:** [Inventado-Boston_House_Price_Report.pdf](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Inventado-Boston_House_Price_Report.pdf)
+- 📊 **Datasets**:
+  - [boston (1).csv](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/boston%20(1).csv) (All columns)
+  - [boston_selected_features_withDIS.csv](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/boston_selected_features_withDIS.csv) (Selected columns)
 
 ---
 
