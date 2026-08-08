@@ -26,7 +26,7 @@ A collection of machine learning projects covering regression analysis, CNN imag
 - **Insights**: Number of rooms (RM) strongly increases prices, while lower-status population (LSTAT) decreases them
 
 **Files**: 
-- 💻 **Code:** [Boston_House_Price_Prediction.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Boston_House_Price_Prediction.ipynb)
+- 💻 **Code:** [Inventado_Lab1_Boston_House_Price_Prediction.ipynb](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Inventado_Lab1_Boston_House_Price_Prediction.ipynb)
 - 📄 **Report:** [Inventado-Boston_House_Price_Report.pdf](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Inventado-Boston_House_Price_Report.pdf)
 - 📊 **Datasets**:
   - [boston (1).csv](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Lab%20Act%20Datasets/boston%20(1).csv) (All columns)
@@ -45,7 +45,7 @@ A collection of machine learning projects covering regression analysis, CNN imag
 - **Results**: 88% training accuracy, 61% validation accuracy, 0.81 ROC-AUC
 
 **Files**:
-- 💻 **Code:** [SummativeLabExercise.ipynb](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Summative%20Lab%20Exercise%203%20-%20Identifying%20Hair%20Types.ipynb)
+- 💻 **Code:** [Summative Lab Exercise 3 - Identifying Hair Types.ipynb](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Summative%20Lab%20Exercise%203%20-%20Identifying%20Hair%20Types.ipynb)
 - 📄 **Report:** [Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf)
 
 ---
@@ -77,9 +77,9 @@ A collection of machine learning projects covering regression analysis, CNN imag
 - **Linear Regression Task**: Predicting student performance metrics.
 - **Logistic Regression Task**: Diagnostic classification of breast cancer tissue samples.
 - **Files**:
-  - 💻 **Code:** [Inventado_Formative Lab Exercise 2 HandsOn Linear Regression and Logistic Regression.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Inventado_Formative%20Lab%20Exercise%202%20HandsOn%20Linear%20Regression%20and%20Logistic%20Regression.ipynb)
-  - 📊 **Linear Regression Dataset:** [CSE_student_performances.csv](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/CSE_student_performances.csv)
-  - 📊 **Logistic Regression Dataset:** [breast_cancer_cleaned.csv](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/breast_cancer_cleaned.csv)
+  - 💻 **Code:** [Inventado_Formative Lab Exercise 2 HandsOn Linear Regression and Logistic Regression.ipynb](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Formative%20Lab%20Exercises/Formative%202%20-%20Linear%20%26%20Logistic%20Regression/Inventado_Formative%20Lab%20Exercise%202%20HandsOn%20Linear%20Regression%20and%20Logistic%20Regression.ipynb)
+  - 📊 **Linear Regression Dataset:** [CSE_student_performances.csv](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Formative%20Lab%20Exercises/Formative%202%20-%20Linear%20%26%20Logistic%20Regression/Formative%202%20Datasets/CSE_student_performances.csv)
+  - 📊 **Logistic Regression Dataset (cleaned):** [breast_cancer_cleaned.csv](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Formative%20Lab%20Exercises/Formative%202%20-%20Linear%20%26%20Logistic%20Regression/Formative%202%20Datasets/breast_cancer_cleaned.csv)
 
 ---
 
@@ -88,7 +88,7 @@ A collection of machine learning projects covering regression analysis, CNN imag
 
 - **Description**: Construction and training of a Multilayer Perceptron neural network to classify individual income levels based on census attributes.
 - **Files**:
-  - 💻 **Code:** [Inventado_FormativeLab4.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Inventado_FormativeLab4.ipynb)
+  - 💻 **Code:** [Inventado - Formative 4 - Multilayer Perceptron (MLP).ipynb](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Formative%20Lab%20Exercises/Inventado%20-%20Formative%204%20-%20Multilayer%20Perceptron%20(MLP).ipynb)
   - 📊 **Dataset:** [UCI Adult Income Dataset (`adult.data`)](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data)
 
 ---
@@ -98,7 +98,7 @@ A collection of machine learning projects covering regression analysis, CNN imag
 
 - **Description**: Demonstrates Principal Component Analysis (PCA) for dimensionality reduction using the Fashion-MNIST dataset. The 28×28 pixel images are flattened into 784-dimensional feature vectors and normalized to zero mean and unit variance. PCA is applied across varying component sizes (n = 100, 50, 10) to reconstruct images, and Mean Squared Error (MSE) is evaluated to measure information loss.
 - **Files**:
-  - 💻 **Code:** [Inventado_FormativeLab5.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Inventado_FormativeLab5.ipynb)
+  - 💻 **Code:** [Inventado - Formative 5 - Principal Component Analysis (PCA).ipynb](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Formative%20Lab%20Exercises/Inventado%20-%20Formative%205%20-%20Principal%20Component%20Analysis%20(PCA).ipynb)
   - 📊 **Dataset:** Built-in `tensorflow.keras.datasets.fashion_mnist`
 
 ---
