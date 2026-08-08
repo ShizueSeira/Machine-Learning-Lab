@@ -1,13 +1,24 @@
+<div align="center">
+
 # Machine Learning Portfolio
 
 A collection of machine learning projects covering regression analysis, CNN image classification, and RNN time-series forecasting.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+---
+
 ## 📁 Projects
 
 ### 1. Boston House Price Prediction
-**📊 Regression Analysis | 🏠 Real Estate**
-
-Predicting median house prices in Boston using various regression techniques.
+> **📊 Regression Analysis | 🏠 Real Estate**
+> 
+> Predicting median house prices in Boston using various regression techniques.
 
 - **Models**: Simple Linear, Ridge, Lasso, Elastic Net Regression
 - **Key Features**: RM, LSTAT, DIS, AGE, PTRATIO
@@ -15,13 +26,15 @@ Predicting median house prices in Boston using various regression techniques.
 - **Insights**: Number of rooms (RM) strongly increases prices, while lower-status population (LSTAT) decreases them
 
 **Files**: 
-- `Boston_House_Price_Prediction.ipynb`
-- `Inventado-Boston_House_Price_Report.pdf`
+- 💻 **Code:** [Boston_House_Price_Prediction.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Boston_House_Price_Prediction.ipynb)
+- 📄 **Report:** [Inventado-Boston_House_Price_Report.pdf](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Inventado-Boston_House_Price_Report.pdf)
+
+---
 
 ### 3. Hair Type Classification with CNN
-**🖼️ Image Classification | 💇 Hair Types**
-
-Multi-class classification of hair types (Curly, Straight, Wavy) using Convolutional Neural Networks.
+> **🖼️ Image Classification | 💇 Hair Types**
+> 
+> Multi-class classification of hair types (Curly, Straight, Wavy) using Convolutional Neural Networks.
 
 - **Models**: Custom CNN architectures from scratch
 - **Dataset**: 985 images across 3 classes
@@ -29,13 +42,15 @@ Multi-class classification of hair types (Curly, Straight, Wavy) using Convoluti
 - **Results**: 88% training accuracy, 61% validation accuracy, 0.81 ROC-AUC
 
 **Files**:
-- `SummativeLabExercise.ipynb` 
-- `Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf`
+- 💻 **Code:** [SummativeLabExercise.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/SummativeLabExercise.ipynb)
+- 📄 **Report:** [Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf)
+
+---
 
 ### 4. Stock Price Prediction with RNN
-**📈 Time Series Forecasting | 💹 Finance**
-
-Predicting Amazon and IBM stock prices using Recurrent Neural Networks.
+> **📈 Time Series Forecasting | 💹 Finance**
+> 
+> Predicting Amazon and IBM stock prices using Recurrent Neural Networks.
 
 - **Models**: LSTM, GRU, Bi-RNN architectures
 - **Data**: 2006-2018 stock price history
@@ -43,8 +58,10 @@ Predicting Amazon and IBM stock prices using Recurrent Neural Networks.
 - **Results**: R² > 0.98, RMSE: 13.80 (AMZN), 1.68 (IBM)
 
 **Files**:
-- `Summative Lab Exercise 4_Predicting Stock Prices.ipynb`
-- `Inventado_Valles_Summative-Lab-Exercise-Predictin-Stock-Prices.pdf`
+- 💻 **Code:** [Summative Lab Exercise 4_Predicting Stock Prices.ipynb](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Summative%20Lab%20Exercise%204_Predicting%20Stock%20Prices.ipynb)
+- 📄 **Report:** [Inventado_Valles_Summative-Lab-Exercise-Predictin-Stock-Prices.pdf](https://github.com/ShizueSeira/Machine-Learning-Lab/blob/main/Inventado_Valles_Summative-Lab-Exercise-Predictin-Stock-Prices.pdf)
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -53,12 +70,7 @@ Predicting Amazon and IBM stock prices using Recurrent Neural Networks.
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Specialized Models**: CNNs, RNNs (LSTM/GRU), Regression Models
 
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Open Jupyter notebooks: `jupyter notebook`
-4. Run cells sequentially in each notebook
+---
 
 ## 📊 Key Skills Demonstrated
 
@@ -69,7 +81,13 @@ Predicting Amazon and IBM stock prices using Recurrent Neural Networks.
 - RNN/LSTM for time-series forecasting
 - Comprehensive model evaluation and interpretation
 
+---
+
 ## 👥 Authors
 
+<div align="center">
+
 **Charles Fredric G. Inventado** & **James Vincent V. Valles**  
-University of Santo Tomas - College of Information and Computing Sciences
+*University of Santo Tomas - College of Information and Computing Sciences*
+
+</div>
