@@ -47,6 +47,7 @@ A collection of machine learning projects covering regression analysis, CNN imag
 **Files**:
 - 💻 **Code:** [Summative Lab Exercise 3 - Identifying Hair Types.ipynb](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Summative%20Lab%20Exercise%203%20-%20Identifying%20Hair%20Types.ipynb)
 - 📄 **Report:** [Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/blob/main/Inventado_Valles_Summative-Lab-Exercise_Identifying_Hair_Types.pdf)
+- 📊 **Dataset:** [Hair Dataset](https://github.com/ShizueSeira/MachineLearning-Lab-And-Formatives/tree/main/Lab%20Act%20Datasets/Hair%20Dataset)
 
 ---
 
